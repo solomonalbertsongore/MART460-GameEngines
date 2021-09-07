@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="1" id="-1"/>
+        </init>
+    </group>
+    <group eventID="1" id="2">
+        <rotate2 comment="false" x="183" y="246">
+            <ACTOR eid="this" id="0"/>
+            <int id="1" val="-180"/>
+        </rotate2>
+    </group>
+    <group eventID="1" id="3">
+        <scaleTo comment="false" x="80" y="157">
+            <ACTOR eid="this" id="0"/>
+            <int id="1" val="-100"/>
+            <int id="2" val="0"/>
+            <int id="3" val="0"/>
+            <int id="4" val="0"/>
+        </scaleTo>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

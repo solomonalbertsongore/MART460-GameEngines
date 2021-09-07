@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="2" extheight="384" extwidth="544" extx="-32" exty="-32" format="4.0.1" gravx="-0.0" gravy="0.0" height="320" id="0" name="MainScene" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="480">
+    <layers>
+        <grad-bg b1="255" b2="255" g1="102" g2="204" r1="51" r2="0"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions>
+        <terrainRegion b="64" g="64" group="1" h="23" id="0" name="Terrain 0" pts="4,0.0,0.0,0.0,23.0,117.0,23.0,117.0,0.0" r="64" type="box" w="117" x="26" y="282"/>
+    </terrainRegions>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="3" id="0" name="PlayerCharacter 1" order="0" sx="1.0" sy="1.0" x="106" y="249" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="4" id="2" name="EnemyWizard 2" order="1" sx="1.0" sy="1.0" x="267" y="122" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="4,480.0,32.0,480.0,0.0,0.0,0.0,0.0,32.0" x="0.0" y="288.0"/>
+        <p pts="4,32.0,0.0,0.0,0.0,0.0,32.0,32.0,32.0" x="416.0" y="128.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>
